@@ -4,12 +4,16 @@
     "pages/index/index",
     "pages/store/index",
     "pages/detail/index",
-    "pages/user/index",
-    "pages/order/list",
-    "pages/order/detail",
+    "pages/my/index",
+    "pages/orders/list",
+    "pages/orders/detail",
     "pages/confirmorder/index",
 
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/a/a1",
+    "pages/a/a2",
+    "pages/a/a3"
+
   ],
   "window":{
     "backgroundTextStyle":"light",

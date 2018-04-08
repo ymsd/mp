@@ -1,0 +1,3 @@
+<!--pages/a/a3.wxml-->
+<text>pages/a/a3.wxml</text>
+<button bindtap="go">pages/a/a1.wxml</button>

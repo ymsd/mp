@@ -33,12 +33,12 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": -1,
+			"current": 0,
 			"list": [
 				{
-					"id": -1,
+					"id": 0,
 					"name": "a页面路由",
-					"pathName": "pages/a/a1",
+					"pathName": "pages/index/index",
 					"query": ""
 				}
 			]
